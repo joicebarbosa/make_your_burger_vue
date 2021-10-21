@@ -77,6 +77,80 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": []
-} 
-    
+  "burgers": [
+    {
+      "nome": "danny",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "Finalizado",
+      "id": 8
+    },
+    {
+      "nome": "Danym",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Pepino"
+      ],
+      "status": "Solicitado",
+      "id": 9
+    },
+    {
+      "nome": "Liz",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Pepino",
+        "Tomate",
+        "Cheddar",
+        "Salame"
+      ],
+      "status": "Em produção",
+      "id": 11
+    },
+    {
+      "nome": "João",
+      "carne": "Veggie burger",
+      "pao": "Integral",
+      "opcionais": [
+        "Cebola roxa",
+        "Pepino",
+        "Tomate"
+      ],
+      "status": "Finalizado",
+      "id": 12
+    },
+    {
+      "nome": "Joice Valentim",
+      "carne": "Picanha",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Tomate",
+        "Cheddar",
+        "Cebola roxa"
+      ],
+      "status": "Finalizado",
+      "id": 14
+    },
+    {
+      "nome": "Jose",
+      "carne": "Alcatra",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Cebola roxa",
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Em produção",
+      "id": 15
+    }
+  ]
+}
